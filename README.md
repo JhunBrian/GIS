@@ -34,3 +34,33 @@ Note: This repository is dedicated to research mentoring purposes, focusing on s
     - https://github.com/microsoft/planetary-computer-apis
     - https://github.com/Microsoft/planetary-computer-hub
     - https://github.com/Microsoft/planetary-computer-containers
+    
+    
+## title {.tabset .tabset-fade}
+content above tabbed region.
+
+### tab Social-Media
+
+tab content Social-Media
+
+### tab Contact
+
+tab content  Contact
+
+### tab Revisions
+
+tab content  Revisions
+
+### tab Articles
+
+tab content  Articles
+
+### tab Skills
+
+tab content  Skills
+
+### tab Insights
+
+tab content  Insights
+
+content below tabbed region
