@@ -1,2 +1,8 @@
-".env"
-"notebooks/CONCEPT.ipynb"
+*.env
+notebooks/CONCEPT.ipynb
+
+
+# large files
+*.gpkg
+*.tif
+*.zip
